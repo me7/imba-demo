@@ -7,10 +7,12 @@
     "preview": "imba preview"
   },
   "devDependencies": {
-    "vite": "*",
-    "imba": "^2.0.0-alpha.245"
+    "imba": "^2.0.0-alpha.245",
+    "vite": "^6.3.3",
+    "vite-node": "^3.1.2"
   },
   "dependencies": {
-    "animejs": "^4.0.2"
+    "animejs": "^4.0.2",
+    "echarts": "^5.6.0"
   }
 }
